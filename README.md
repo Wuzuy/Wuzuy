@@ -3,27 +3,37 @@
   <a href="#english"><img src="https://img.shields.io/badge/Version-English-blue?style=for-the-badge" alt="EN" /></a>
 </div>
 
-<h2 align="left">Hi 👋! My name is Wuzuy and I'm a Backend Developer</h2>
+<h2 align="left" id="english">Hello! My name is Wuzuy and I'm a Backend Developer</h2>
 
 <div align="left">
-  <img align="right" height="150" src="https://avatars.githubusercontent.com/u/89390605?v=4" />
-  <p id="portugues">🚀 <b>Proativo</b> e <b>organizado</b>, focado em arquitetura de sistemas e escalabilidade.</p>
-  <p>🛠️ Desenvolvendo soluções robustas com Java, Node.js e C#.</p>
-  <p>🎓 Cursando Engenharia de Software.</p>
+  <p>🚀 <b>Proactive</b> and <b>organized</b>, focused on system architecture and scalability.</p>
+  <p>🛠️ Developing robust solutions with Java, Node.js, and C#.</p>
+  <p>🎓 Software Engineering Student.</p>
+</div>
+
+###
+
+<div align="left">
+  <a href="https://linkedin.com/in/lucasmatheusls"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
+  <a href="mailto:lucaslimasandin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 </div>
 
 ---
 
+<h2 align="left" id="portugues">Olá! Meu nome é Wuzuy e eu sou um Desenvolvedor Backend.</h2>
+
 <div align="left">
-  <p id="english">🚀 <b>Proactive</b> and <b>organized</b>, focused on system architecture and scalability.</p>
-  <p>🛠️ Developing robust solutions with Java, Node.js, and C#.</p>
-  <p>🎓 Software Engineering Student.</p>
+  <p>🚀 <b>Proativo</b> e <b>organizado</b>, focado em arquitetura de sistemas e escalabilidade.</p>
+  <p>🛠️ Desenvolvendo soluções robustas com Java, Node.js e C#.</p>
+  <p>🎓 Cursando Engenharia de Software.</p>
 </div>
 
 <div align="left">
   <a href="https://linkedin.com/in/lucasmatheusls"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="25" /></a>
   <a href="mailto:lucaslimasandin@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="25" /></a>
 </div>
+
+---
 
 ###
 
